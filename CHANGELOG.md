@@ -1,3 +1,6 @@
+## 0.2.5
+* Correctly podspec file for iOS
+* Fix README.md documentation
 ## 0.2.4
 * Remove unnecessary log
 * Upgrade build gradle to `7.1.3`

@@ -36,7 +36,7 @@ To use this plugin add `telephony` as a [dependency in your pubspec.yaml file](h
 ### Setup
 Import the `telephony` package
 ```dart
-import 'package:telephony/telephony.dart';
+import 'package:another_telephony/telephony.dart';
 ```
 
 
