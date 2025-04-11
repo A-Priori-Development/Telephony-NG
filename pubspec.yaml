@@ -9,7 +9,7 @@ issue_tracker: https://github.com/thanhdang198/Telephony/issues
 
 environment:
   sdk: '>=2.15.1 <4.0.0'
-  flutter: ">=1.10.0"
+  flutter: ">=1.20.0"
 
 dependencies:
   flutter:
