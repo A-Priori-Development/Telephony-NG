@@ -1,6 +1,4 @@
-
-
-# Telephony-ng
+# Telephony-NG
 
 ## Introduction 
 This is a decoupled fork from the [original package](https://github.com/shounakmulay/Telephony), that is not maintained anymore. The goal of this library is to experimentally refactor and extend the functionalities beyond the current scope 
