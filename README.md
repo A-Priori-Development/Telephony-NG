@@ -1,17 +1,14 @@
 
 
-# Telephony
+# Telephony-ng
 
-## We create this fork because the [original package](https://github.com/shounakmulay/Telephony) is not maintained anymore. We will try to keep this package up to date with the latest Flutter version.
+## Introduction 
+This is a decoupled fork from the [original package](https://github.com/shounakmulay/Telephony), that is not maintained anymore. The goal of this library is to experimentally refactor and extend the functionalities beyond the current scope 
+
+For a maintained version of the original Telephony Flutter-library please go to [Another-telephony][https://github.com/codersanket/another_telephony]. 
 
 |:exclamation: This plugin currently only works on Android Platform|
 |------------------------------------------------------------------|
-|Contribute or meet a problem|
-|Please create pull-request/issue in the [original package](https://github.com/shounakmulay/Telephony), i will check and fix it as soon as possible.|
-#### Happy to contribute this project together :heart:
-#### From VietNam ![Vietnam](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/vn.png "Vietnam") (with Paracel & Spratly Islands) contributor
-Contact me for [instantly support](mailto:dangtrongthanh1998@gmail.com)
-
 
 A Flutter plugin to use telephony features such as
 - Send SMS Messages
